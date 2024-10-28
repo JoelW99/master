@@ -1,0 +1,1 @@
+/usr/bin/c++   -DNOMPI -DNOPFFT -DNOFFTFLOAT  -DMODELTYPE=lpsi42 -DMODELINCLUDE=models/lpsi42.h -DMODELLABEL=lpsi42 -Ofast  -Wall -Wshadow  -rdynamic CMakeFiles/cosmolattice.dir/src/cosmolattice.cpp.o -o lpsi42  ../dependencies/MyFFTW3/lib/libfftw3_threads.a ../dependencies/MyFFTW3/lib/libfftw3.a 
