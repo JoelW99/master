@@ -1,0 +1,4 @@
+/home/joel/cosmolattice/msmall/CMakeFiles/cosmolattice.dir
+/home/joel/cosmolattice/msmall/CMakeFiles/clean-cmake.dir
+/home/joel/cosmolattice/msmall/CMakeFiles/edit_cache.dir
+/home/joel/cosmolattice/msmall/CMakeFiles/rebuild_cache.dir
