@@ -1,0 +1,49 @@
+Parameters: 
+Important parameters:
+
+                tMax       120                 
+                  dt       0.1                 
+                   N       256                 
+             withGWs       false               
+             evolver       VV2                 
+           expansion       true                
+     tOutputRareFreq       10                  
+                 kIR       0.1                 
+         tOutputFreq       0.1                 
+       tOutputInfreq       0.1                 
+                  t0       0                   
+             kCutOff       230                 
+
+
+Other parameters:
+
+           tolerance       -1                  
+       print_headers       false               
+         hdf5Spectra       false               
+           deltaKBin       1                   
+             OccNumb       false               
+    spectraVerbosity       0                   
+     fixedBackground       false               
+            baseSeed       1556307645          
+                   m       1.461381503e13      
+         tBackupFreq       -1                  
+          outputfile       ./                  
+              lambda       0.14                
+            save_dir       ./                  
+             PS_type       1                   
+               input       ../src/models/parameter-files/lpsi42.in
+     initial_momenta       -2.934787e31 0      
+                  m2       1.461381503e13      
+          PS_version       1                   
+                   g       1.732050808e-4      
+       appendToFiles       false               
+     GWprojectorType       1                   
+  initial_amplitudes       3.685785836e19 0    
+     energy_snapshot       S_S                 
+                   M       6.327967532e15      
+         tOutputVerb       10                  
+
+The simulation started on the d8 m9 y2024 around h14m39.
+It will be running on a grid of (1,1,1) cores.The simulation finished on the d8 m9 y2024 around h16m14.
+The timer indicates that it ran for 5745.140s.
+As it ran on 1 cores, this corresponds to 1.59587 core hours.
