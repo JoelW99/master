@@ -1,0 +1,47 @@
+Parameters: 
+Important parameters:
+
+                tMax       120                 
+                  dt       0.1                 
+                   N       256                 
+             withGWs       false               
+             evolver       VV2                 
+           expansion       true                
+     tOutputRareFreq       5                   
+                 kIR       0.1                 
+       tOutputInfreq       0.1                 
+                  t0       0                   
+             kCutOff       230                 
+         tOutputFreq       0.1                 
+
+
+Other parameters:
+
+           tolerance       -1                  
+       print_headers       false               
+         hdf5Spectra       false               
+           deltaKBin       1                   
+             OccNumb       false               
+    spectraVerbosity       0                   
+          PS_version       1                   
+     fixedBackground       false               
+     initial_momenta       -2.2625688055444393e+31 0
+                   m       1.1e13              
+         tBackupFreq       -1                  
+          outputfile       ./                  
+              lambda       0.07                
+            baseSeed       968209083           
+             PS_type       1                   
+               input       ../src/models/parameter-files/lpsi42.in
+       appendToFiles       false               
+     GWprojectorType       1                   
+  initial_amplitudes       3.6836699858981188e+19 0
+                   g       1.732050808e-4      
+                   M       6.327967532e15      
+     energy_snapshot       ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖ ✖
+         tOutputVerb       10                  
+
+The simulation started on the d21 m9 y2024 around h15m30.
+It will be running on a grid of (1,1,1) cores.The simulation finished on the d21 m9 y2024 around h17m2.
+The timer indicates that it ran for 5545.131s.
+As it ran on 1 cores, this corresponds to 1.54031 core hours.
