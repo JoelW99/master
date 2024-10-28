@@ -1,1 +1,0 @@
-/usr/bin/c++   -DNOMPI -DNOPFFT -DNOFFTFLOAT  -DMODELTYPE=lphi4 -DMODELINCLUDE=models/lphi4.h -DMODELLABEL=lphi4 -Ofast  -Wall -Wshadow  -rdynamic CMakeFiles/cosmolattice.dir/src/cosmolattice.cpp.o -o lphi4  ../dependencies/MyFFTW3/lib/libfftw3_threads.a ../dependencies/MyFFTW3/lib/libfftw3.a 
