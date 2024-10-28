@@ -1,0 +1,48 @@
+Parameters: 
+Important parameters:
+
+                tMax       120                 
+                  dt       0.1                 
+                   N       256                 
+             withGWs       false               
+             evolver       VV2                 
+           expansion       true                
+     tOutputRareFreq       10                  
+                 kIR       0.1                 
+         tOutputFreq       0.1                 
+       tOutputInfreq       0.1                 
+                  t0       0                   
+             kCutOff       230                 
+
+
+Other parameters:
+
+           tolerance       -1                  
+       print_headers       false               
+         hdf5Spectra       false               
+           deltaKBin       1                   
+             OccNumb       false               
+    spectraVerbosity       0                   
+     fixedBackground       false               
+     initial_momenta       -3.01891107e31 0    
+                   m       1.461381503e13      
+         tBackupFreq       -1                  
+          outputfile       ./                  
+              lambda       0.035               
+            baseSeed       3993394604          
+            save_dir       ./                  
+             PS_type       1                   
+               input       ../src/models/parameter-files/lpsi42.in
+          PS_version       1                   
+                   g       1.732050808e-4      
+       appendToFiles       false               
+     GWprojectorType       1                   
+  initial_amplitudes       3.683412078e19 0    
+     energy_snapshot       S_S                 
+                   M       6.327967532e15      
+         tOutputVerb       10                  
+
+The simulation started on the d10 m9 y2024 around h11m25.
+It will be running on a grid of (1,1,1) cores.The simulation finished on the d10 m9 y2024 around h13m3.
+The timer indicates that it ran for 5877.939s.
+As it ran on 1 cores, this corresponds to 1.63276 core hours.
